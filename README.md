@@ -1,1 +1,1 @@
-# kyopro_memo
+# Kyopro lib
